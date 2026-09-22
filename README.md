@@ -1,1 +1,1 @@
-# CS230---Web-Info-Processing
+# CS230---Web-Info-Processing - Mini Profile Website
