@@ -1,0 +1,25 @@
+html {
+    font-family: Arial, Helvetica, sans-serif
+}
+body{ 
+    background-color: lightblue;
+    margin: 0;
+}
+* { box-sizing: border-box; }
+nav{
+    display:flex;
+    flex-direction:column;
+    gap: 12px;
+}
+.card{
+    padding:20px;
+    margin:17px;
+    border:19px;
+    border-radius:15px;
+    background-color: rgb(221, 216, 216);
+}
+.container{
+    display:flex;
+    gap:20px;
+    flex-wrap: wrap;
+}
